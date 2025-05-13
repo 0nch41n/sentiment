@@ -1,4 +1,4 @@
-# OnchainNLP: OnChain Context-Aware Sentiment Analysis
+# OnchainNLP: Onchain Context-Aware Sentiment Analysis
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
